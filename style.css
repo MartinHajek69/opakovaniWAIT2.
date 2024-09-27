@@ -1,7 +1,40 @@
 .nadpis {
     text-align: center;
+    color: #fff
   }
 .VS {
     position: relative;
     margin-right: 500px;
   }
+
+body {
+  background-image: url('pozadi.avif');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+td {
+  color: #fff
+}
+
+tr {
+  color: #fff
+}
+
+a {
+  color: #04f0b5
+}
+
+table {
+ align-items: center;
+}
+.center-tabulka {
+  margin: 0 auto;
+  border-collapse: collapse;
+  bottom: 200px;
+}
+
+.center-tabulka th, .center-tabulka td {
+  padding: 10px;
+  text-align: center;
+}
